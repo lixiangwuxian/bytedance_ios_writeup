@@ -1,6 +1,6 @@
- ## objective-c
+## objective-c
 
-```objective-c
+```objectivec
 //Student.h
 #include<stdio.h>
 #include<Foundation/Foundation.h>
@@ -14,7 +14,7 @@
 @end
 ```
 
-```objective-c
+```objectivec
 //Student.m
 #include"Student.h"
 
@@ -30,9 +30,9 @@
 
 [Files](code/oc/)
 
- ## swift
+## swift
 
- ```swift
+```swift
  //Student.swift
 class Student {
     var name: String
@@ -47,6 +47,6 @@ class Student {
         print("This student has studying for \(time) hours.")
     }
 }
- ```
+```
 
 [Files](code/swift/)
